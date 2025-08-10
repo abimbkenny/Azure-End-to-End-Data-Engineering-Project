@@ -8,13 +8,13 @@ With a significant repository of customer and sales data stored in an on-premise
 To meet the objectives outlined in the project proposal, we will implement a scalable and automated data solution that ensures timely, accurate, and actionable insights.
 
 # Technology Used
-Azure Data Factory (ADF)**: For orchestrating data movement and transformation
-Azure Data Lake Storage (ADLS)**: For storing raw and processed data.
--Azure Databricks**: Using the Medallion Architecture For data transformation and processing.
-- Azure Synapse Analytics**: For data warehousing and SQL-based analytics.
-- Power BI**: For data visualization and reporting.
-- Azure Key Vault**: For securely managing credentials and secrets.
-- SQL Server (On-Premises)**: Source of customer and sales data
+- **Azure Data Factory (ADF)**: For orchestrating data movement and transformation
+- **Azure Data Lake Storage (ADLS**)*: For storing raw and processed data**.
+- **Azure Databricks**: Using the Medallion Architecture For data transformation and processing.
+- **Azure Synapse Analytics****: For data warehousing and SQL-based analytics.
+- **Power BI****: For data visualization and reporting.
+- **Azure Key Vault****: For securely managing credentials and secrets.
+- **SQL Server (On-Premises**)**: Source of customer and sales data
 
 # 🔧 Key Components of the Solution
 1.** **Data Pipeline Development****
