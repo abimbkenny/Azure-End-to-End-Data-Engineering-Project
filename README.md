@@ -33,8 +33,10 @@ To meet the objectives outlined in the project proposal, we will implement a sca
 o	Total products sold
 o	Total sales revenue
 o	Gender distribution of customers
-o	Filters for product category, gender, and date range
-4. **Cloud Scalability & Security**
+o	Filters for product category and Gender
+![KPI-Dashboard](https://github.com/user-attachments/assets/75dcfba3-4b26-4389-af74-f3ebe374d0ba)
+
+5. **Cloud Scalability & Security**
 •	Leveraging Azure ensures: 
 o	High availability and scalability
 o	Secure data handling and compliance with enterprise standards
